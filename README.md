@@ -5,7 +5,7 @@
 首先下载安装好termux
 打开termux
 然后运行下面的命令(所有命令都是在英文输入状态下输入)
-apt update
+apt update   
 apt install git vim perl nodejs-lts wget curl nano cronie moreutils
 git clone https://github.com/simo8102/88-AutoSignMachine.git
 看下文件名字
